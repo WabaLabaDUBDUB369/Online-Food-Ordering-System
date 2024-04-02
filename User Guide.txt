@@ -1,0 +1,67 @@
+Database: onlinefoodorder
+
+
+Website URL:  https://unhatched-fuel.000webhostapp.com/
+
+Admin Control URL:  https://unhatched-fuel.000webhostapp.com/admin/
+
+
+
+- This website is hosted on the free "000webhost" cloud server. The SQL database is also being hosted from there.
+
+- The database is being hosted by the MySQL administration tool named "phpMyAdmin" and can only be accessed by my own username and password.
+
+
+
+
+- To host the website on another server, the website URL and the Admin Control URL will naturally change
+
+- Then the connection to the database needs to be changed as well on the "constant.php" file. The new website URL, new username and passwords for 
+the "phpMyAdmin" tool and the new database name needs to be used, in place of all the current fields.
+
+
+
+
+******************* Functionalities covered in this website ***************************
+
+For Admin:
+
+- Add food items: admin can add food items details like name, description, price, category etc.
+
+- View / edit (Price) / delete Items: admin can view, edit the food items details as well as enable/disable food items according to season or availability. 
+
+- View orders: admin can track live orders and update the delivery information of each order.
+
+- View users: Admin can view the user's details which are given during ordering the food. 
+
+- Add admin: An Admin can add another admin or update the details of other admins.
+
+
+For Customer:
+
+- Menu list: different food items with respective categories viewable to user. 
+
+- View/edit cart: user can add/view their cart details, delete food items from cart, update quantity etc
+
+- Login: user can login with their credentials to access food ordering system.
+
+- After user login, the price of each food item in menu list should display with ten percent off automatically.
+
+- Register: user can register with essential details for food ordering system. 
+
+- Use of a Database with MYSQL to keep record of all the food items, customers, admin, food categories and the customer orders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

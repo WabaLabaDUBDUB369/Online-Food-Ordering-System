@@ -1,0 +1,52 @@
+********************************************
+
+Admin Login Details:
+
+1) Username: dennis
+   Password: dennis
+
+2) Username: liam
+   Password: liam
+
+3) Username: jacky
+   Password: jacky
+
+4) Username: admin
+   Password: admin
+
+********************************************
+
+Customer Login Details:
+
+
+1) Username: ja4324
+   Password: ja4324
+
+2) Username: RC8475
+   Password: RC8475
+
+3) Username: ah8764
+   Password: ah8764
+
+4) Username: dh6523
+   Password: dh6523
+
+5) Username: pm7263
+   Password: pm7263
+
+*******************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
